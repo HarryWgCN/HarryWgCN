@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarryWgCN
-- 👀 I’m interested in Cloud Computing and applications.
-- 🌱 I’m currently in the third year as a University student in BUPT, China.
+- 👀 I’m interested in LLM research, Multimodal learning and Application Developments.
+- 🌱 I’m currently a postgraduate student in BUPT, China.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : wang_harry_cn@bupt.edu.cn.
 
